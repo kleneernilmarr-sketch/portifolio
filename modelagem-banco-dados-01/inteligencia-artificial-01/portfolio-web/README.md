@@ -1,12 +1,8 @@
-# 🌐 Portfólio Web
+# 🌐 Klener Nilmar 
 
 ## 📌 Descrição
 
-Projeto de desenvolvimento web responsivo para apresentação profissional.
-
-O site foi desenvolvido utilizando HTML, CSS e JavaScript com foco em design moderno e experiência do usuário.
-
----
+Sou estudante do primeiro semestre de Engenharia de Software, apaixonado por tecnologia e sempre em busca de novos conhecimentos. Tenho grande interesse na área de cibersegurança, especialmente em proteção de sistemas, redes e análise de vulnerabilidades, buscando evoluir constantemente minhas habilidades na área de TI.
 
 ## 🚀 Tecnologias Utilizadas
 
